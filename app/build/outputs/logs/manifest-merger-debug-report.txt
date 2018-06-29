@@ -1,71 +1,101 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b262dd56101fc78564e249a030701f6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\67e80c9487f2cb28f8917aa10b41352d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9cfa2a2370ee724614ab229094e7d604\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fd9fe81820adbed19df3e102ddc25a88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8242f4854762ef1ebf5209a9dab957e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a71e0017a29fa4e878070335963156e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae3f4a1145ff45238a615651c45a98be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b96b077c48333233dfa66bd35975fd5b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5457ad95a9b5089017d6a2e84c8e9b69\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51dd2b298854e4b20859c988f6c9768f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b262dd56101fc78564e249a030701f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b262dd56101fc78564e249a030701f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\67e80c9487f2cb28f8917aa10b41352d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\67e80c9487f2cb28f8917aa10b41352d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9cfa2a2370ee724614ab229094e7d604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9cfa2a2370ee724614ab229094e7d604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fd9fe81820adbed19df3e102ddc25a88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fd9fe81820adbed19df3e102ddc25a88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8242f4854762ef1ebf5209a9dab957e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8242f4854762ef1ebf5209a9dab957e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a71e0017a29fa4e878070335963156e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a71e0017a29fa4e878070335963156e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae3f4a1145ff45238a615651c45a98be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae3f4a1145ff45238a615651c45a98be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b96b077c48333233dfa66bd35975fd5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b96b077c48333233dfa66bd35975fd5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5457ad95a9b5089017d6a2e84c8e9b69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5457ad95a9b5089017d6a2e84c8e9b69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51dd2b298854e4b20859c988f6c9768f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Rohit Kumar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51dd2b298854e4b20859c988f6c9768f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:12:5-67
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:12:22-64
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:12:22-64
 application
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:14:5-28:19
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:14:5-28:19
 	android:label
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:16:9-45
 	android:allowBackup
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:18:9-40
 activity#com.hanselandpetal.ParseJSON.MainActivity
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:21:13-45
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:20:13-69
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:20:13-69
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\Restful\Android Studio restful project\ParseJSON\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\Rohit Kumar\Desktop\ParseJSON\app\src\main\AndroidManifest.xml:25:27-74
